@@ -1,6 +1,6 @@
 ## Welcome to my GitHub 🤞🏻
 
-#### Meu nome é Luiza Biassi Alves, tenho 20 anos e nesse perfil é onde eu armazeno todos os meus conhecimentos que eu tenho colocado em prática a cada dia!
+#### Meu nome é Luiza Biassi Alves, tenho 22 anos e nesse perfil é onde eu armazeno todos os meus conhecimentos que eu tenho colocado em prática a cada dia!
 
 - 🐍 **Python** - UFRJ
 - 👩🏻‍🎓 **Análise e Desenvolvimento de Sistemas** - Faculdades Integradas Simonsen
